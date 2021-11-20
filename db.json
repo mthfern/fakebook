@@ -1,0 +1,45 @@
+{
+  "profiles": [
+    {
+      "username": "@mayaclaudia",
+      "name": "Maya Cláudia da Mota",
+      "likes": [
+        {
+          "id": "1",
+          "content": "Novo filme do Batman",
+          "tags": ["filme", "cinema"]
+        },
+        {
+          "date": "2",
+          "content": "Assista suas séries favoritas na Netflix",
+          "tags": ["serie", "netflix", "streaming"]
+        },
+        {
+          "date": "3",
+          "content": "Promoção TV Samsung 4K",
+          "tags": ["tv", "tecnologia"]
+        },
+        {
+          "date": "4",
+          "content": "Show no Alianz Park",
+          "tags": ["musica", "show"]
+        },
+        {
+          "date": "5",
+          "content": "Fone de ouvido na Fast Shop",
+          "tags": ["tecnologia", "musica"]
+        },
+        {
+          "date": "6",
+          "content": "Promoção do Spotify",
+          "tags": ["musica, spotify"]
+        },
+        {
+          "date": "7",
+          "content": "O futuro da natureza e o aquecimento global",
+          "tags": ["reportagem", "notícia", "ciencia", "natureza", "biologia"]
+        }
+      ]
+    }
+  ]
+}
