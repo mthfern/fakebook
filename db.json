@@ -1,42 +1,42 @@
 {
   "profiles": [
     {
-      "id": "mayaclaudiadamota",
+      "id": "mayaclaudia",
       "name": "Maya Cláudia da Mota",
       "likes": [
         {
           "id": "1",
-          "title": "Novo filme do Batman",
+          "name": "Novo filme do Batman",
           "tags": ["filme", "cinema"]
         },
         {
           "id": "2",
-          "title": "Assista suas séries favoritas na Netflix",
+          "name": "Assista suas séries favoritas na Netflix",
           "tags": ["serie", "netflix", "streaming"]
         },
         {
           "id": "3",
-          "title": "Promoção TV Samsung 4K",
+          "name": "Promoção TV Samsung 4K",
           "tags": ["tv", "tecnologia"]
         },
         {
           "id": "4",
-          "title": "Show no Alianz Park",
+          "name": "Show no Alianz Park",
           "tags": ["musica", "show"]
         },
         {
           "id": "5",
-          "title": "Fone de ouvido na Fast Shop",
+          "name": "Fone de ouvido na Fast Shop",
           "tags": ["tecnologia", "musica"]
         },
         {
           "id": "6",
-          "title": "Promoção do Spotify",
+          "name": "Promoção do Spotify",
           "tags": ["musica, spotify"]
         },
         {
           "id": "7",
-          "title": "O futuro da natureza e o aquecimento global",
+          "name": "O futuro da natureza e o aquecimento global",
           "tags": ["reportagem", "notícia", "ciencia", "natureza", "biologia"]
         }
       ]
