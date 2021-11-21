@@ -9,36 +9,43 @@
         {
           "id": "25384d5c2f8b418a8f2688f8c28c59e0",
           "title": "Novo filme do Batman",
+          "postedDttm": "2021-03-15T00:00:00",
           "tags": ["filme", "cinema"]
         },
         {
           "id": "88a808b12e3a4943a0fb13ceb7924357",
           "title": "Assista suas séries favoritas na Netflix",
+          "postedDttm": "2021-07-15T00:00:00",
           "tags": ["serie", "netflix", "streaming"]
         },
         {
           "id": "29a3926e4f4047f89c87b42b8e1cc425",
           "title": "Promoção TV Samsung 4K",
+          "postedDttm": "2021-04-15T00:00:00",
           "tags": ["tv", "tecnologia"]
         },
         {
           "id": "43b68f336a59446eabea699c3ac106ad",
           "title": "Show no Alianz Park",
+          "postedDttm": "2021-06-15T00:00:00",
           "tags": ["musica", "show"]
         },
         {
           "id": "2d1a507b81b64313b1653d91a8f6a268",
           "title": "Fone de ouvido na Fast Shop",
+          "postedDttm": "2021-08-15T00:00:00",
           "tags": ["tecnologia", "musica"]
         },
         {
           "id": "e4a0feb429fe46b1abb1547c1e28cd3e",
           "title": "Promoção do Spotify",
+          "postedDttm": "2021-09-15T00:00:00",
           "tags": ["musica, spotify"]
         },
         {
           "id": "71c15a6e4b70499586229677d7b93c9b",
           "title": "O futuro da natureza e o aquecimento global",
+          "postedDttm": "2021-05-15T00:00:00",
           "tags": ["reportagem", "notícia", "ciencia", "natureza", "biologia"]
         }
       ]
