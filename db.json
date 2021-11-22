@@ -35,7 +35,19 @@
           "title": "Nova série na Netflix",
           "postedDttm": "2021-07-14 00:00:00",
           "tags": ["netflix", "série"]
-        }                  
+        },
+        {
+          "id": "eb33cf7cf7734f09b5b72cffa9ec0f24",
+          "title": "Ingressos para show do Parangolé",
+          "postedDttm": "2021-04-10 00:00:00",
+          "tags": ["show"]
+        },
+        {
+          "id": "462160698a0e4c2e90cc8141cc167b85",
+          "title": "Ingressos para jogo do Timão",
+          "postedDttm": "2021-06-23 00:00:00",
+          "tags": ["corinthians"]
+        }
       ]
     },
     {
