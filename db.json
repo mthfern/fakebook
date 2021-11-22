@@ -1,6 +1,38 @@
 {
   "profiles": [
     {
+      "id": "30737f8630fa4b6c8c6cdd1cf424dc6c",
+      "username": "arthurbrenodias",
+      "firstName": "Arthur",
+      "LastName" : "Breno Dias",
+      "likes": [
+        {
+          "id": "974d4c54b28043c2a7113d53d1ffeb40",
+          "title": "Novo filme do Coringa",
+          "postedDttm": "2021-10-02 00:00:00",
+          "tags": ["filmes", "cinema"]
+        },
+        {
+          "id": "ea4a9db047c14fe2a67416e32ec756dc",
+          "title": "Messi é favorito à 7a bola de outro",
+          "postedDttm": "2021-09-20 00:00:00",
+          "tags": ["messi", "futebol", "psg"]
+        },
+        {
+          "id": "93f7b3b9a1e04914aca1405897b3b664",
+          "title": "Manchester City vence mais uma",
+          "postedDttm": "2021-11-12 00:00:00",
+          "tags": ["manchester city", "premier league"]
+        },
+        {
+          "id": "6d11c01cda1a412fa1181bdc79b5bb50",
+          "title": "Corinthians dá show",
+          "postedDttm": "2021-11-18 00:00:00",
+          "tags": ["brasileirao", "corinthians"]
+        }        
+      ]
+    },
+    {
       "id": "0d365af9ed2a48189c6fc9864bc2248c",
       "username": "mayaclaudia",
       "firstName": "Maya",
