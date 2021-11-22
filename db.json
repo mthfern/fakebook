@@ -47,6 +47,24 @@
           "title": "Ingressos para jogo do Timão",
           "postedDttm": "2021-06-23 00:00:00",
           "tags": ["corinthians"]
+        },
+        {
+          "id": "85a64c067ae04cc9b416672bd3a916f3",
+          "title": "Camiseta do barcelona em promoção",
+          "postedDttm": "2021-07-25 00:00:00",
+          "tags": ["barca", "barcelona", "la liga", "camp nou", "futebol"]
+        },
+        {
+          "id": "ffd163712cfa4fb296cda84d6a34cbe6",
+          "title": "A maior luta do século",
+          "postedDttm": "2021-10-05 00:00:00",
+          "tags": ["mma", "luta", "combate"]
+        },
+        {
+          "id": "b3143c53636e479bbbb812c6a3219cd3",
+          "title": "Anderson Silva se aposenta",
+          "postedDttm": "2021-11-05 00:00:00",
+          "tags": ["mma", "luta", "combate"]
         }
       ]
     },
@@ -97,6 +115,24 @@
           "title": "O futuro da natureza e o aquecimento global",
           "postedDttm": "2021-05-15 00:00:00",
           "tags": ["reportagem", "notícia", "ciência", "natureza", "biologia"]
+        },
+        {
+          "id": "33d664be1f664499940a397134bab1df",
+          "title": "Células tronco se multiplicam",
+          "postedDttm": "2021-05-09 00:00:00",
+          "tags": ["ciência", "biologia"]
+        },
+        {
+          "id": "9917c55cef2548a0b94b132d12c75779",
+          "title": "Harry Potter e a ordem da fênix",
+          "postedDttm": "2021-05-15 00:00:00",
+          "tags": ["livro", "harry potter", "literatura"]
+        },
+        {
+          "id": "bea35937738e42ecb34f6de83c4d9ee6",
+          "title": "Beats vs JBL",
+          "postedDttm": "2021-08-09 00:00:00",
+          "tags": ["beats", "jbl", "fone de ouvido"]
         }
       ]
     }
